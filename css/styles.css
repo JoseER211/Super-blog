@@ -1,5 +1,22 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: cursive;
-    color: aqua;
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid wheat;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
