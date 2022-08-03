@@ -6,5 +6,8 @@ Esta parte es muy interesante.
 
 En este curso se aprenden cosas muy interesantes. 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
